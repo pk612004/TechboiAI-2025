@@ -11,7 +11,8 @@ Meet Techboi-AI – a smart virtual assistant designed to make your daily tasks 
  -Open Apps & Websites – Quickly launch Google, YouTube, Notepad, Calculator, and more.
  -Get Weather Updates & News – Stay informed with real-time info.
  -Fun Interactions – Get jokes, random advice, and trending movies.
-
+  ## 🎥 Demo Video
+  [Watch on YouTube](https://youtu.be/2WZB_Kokod0)
   Tech Stack & Key Components
 
   requests – Fetches real-time data from online sources.
